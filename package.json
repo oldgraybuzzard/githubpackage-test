@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/oldgraybuzzard/githubpackage-test/issues"
   },
-  "homepage": "https://github.com/oldgraybuzzard/githubpackage-test#readme"
+  "homepage": "https://github.com/oldgraybuzzard/githubpackage-test#readme",
+  "publishConfig": {
+    "@oldgraybuzzard:registry": "registry=https://npm.pkg.github.com"
+  }
 }
